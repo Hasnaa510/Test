@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 67,
+  "articles": [
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Rachel Siegel",
+      "title": "High mortgage rates keep people in their houses, limit supply - The Washington Post",
+      "description": "Fewer homes are available because homeowners are hanging onto coveted rates of 3 or 4 percent.",
+      "url": "https://www.washingtonpost.com/business/2023/05/14/mortgage-rates-housing-supply/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5VCPEUW7Q4I63J4OTJ6CIGFQBQ.jpg&w=1440",
+      "publishedAt": "2023-05-14T11:37:17Z",
+      "content": "Comment on this story\r\nComment\r\nWhen Colleen Randall bought her house in 2016 for $174,000, she figured it was the perfect starter home. Then the past few years made the deal even sweeter: She double… [+8389 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Kristen Altus",
+      "title": "Luxury condos make Florida history with state’s largest construction loan in post-rate hike era - Fox Business",
+      "description": "The Ritz-Carlton Residences in Palm Beach Gardens are \"really like homes in the sky,\" according to developer Dan Catalfumo, who's building the record-breaking luxury condos.",
+      "url": "https://www.foxbusiness.com/real-estate/luxury-condos-florida-history-states-largest-construction-loan-post-rate-hike-era",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/05/0/0/RITZ-CARLTON-PBG-MARINA.jpg?ve=1&tl=1",
+      "publishedAt": "2023-05-14T11:12:16Z",
+      "content": "Before sealing a $340 million construction deal, one Florida developer and New York investor didn’t know they were making Palm Beach business history.\r\n\"We didn't know it was going to be record-break… [+3677 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "A man asked Dave Ramsey if $1,000 is enough for an emergency fund in 2023 — his response drew lots of laughter and applause. Here's why - Yahoo Finance",
+      "description": null,
+      "url": "https://families.google.com/service-restricted",
+      "urlToImage": null,
+      "publishedAt": "2023-05-14T10:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Jack Pitcher",
+      "title": "Investors Are Nervous—And That Could Support Stocks - The Wall Street Journal",
+      "description": "Fund managers have lowest exposure to stocks relative to bonds since 2009",
+      "url": "https://www.wsj.com/articles/investors-are-nervousand-that-could-support-stocks-321728a",
+      "urlToImage": "https://images.wsj.net/im-781295/social",
+      "publishedAt": "2023-05-14T09:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "As.com"
+      },
+      "author": "Gidget Alikpala",
+      "title": "US financial news live updates: Social Security checks, new Twitter CEO, debt default, jobless claims - AS USA",
+      "description": "Follow along for the latest on Elon Musk’s new pick for CEO of Twitter, negotiations over the debt ceiling, social security, and inflation.",
+      "url": "https://en.as.com/latest_news/us-financial-news-live-updates-social-security-checks-new-twitter-ceo-debt-default-jobless-claims-n-2/",
+      "urlToImage": "https://img.asmedia.epimg.net/resizer/H-x8yE5J2qcODFmKK0nQyEB43ag=/1472x828/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/P36J2QJ36BEB5EPOEO7YMWIXFU.jpg",
+      "publishedAt": "2023-05-14T09:08:21Z",
+      "content": "Hello and welcome to AS USA's live blog on financial news.\r\nWe will bring you the latest from Wall Street to Washington for all you need to know about interest rates, the debt ceiling negotiations, i… [+721 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Janelle Ash",
+      "title": "Dave Chappelle's real estate empire helped 'restore' Ohio, comedian says - Fox Business",
+      "description": "Comedian Dave Chappelle is clapping back at critics who are not fond of him buying big swaths of real estate in places like Yellow Springs, Ohio.",
+      "url": "https://www.foxbusiness.com/entertainment/dave-chappelles-real-estate-empire-helped-restore-ohio-comedian-says",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/05/0/0/chappelle.jpg?ve=1&tl=1",
+      "publishedAt": "2023-05-14T09:08:18Z",
+      "content": "Dave Chappelle is clapping back at the critics.\r\nThe controversial comedian gave context to why he owns millions of dollars in real estate in Yellow Springs, Ohio, in a recent feature in Bloomberg ma… [+3410 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Ken Martin",
+      "title": "Amazon to increase delivery speed while cutting costs - Fox Business",
+      "description": "Amazon has made major changes to its logistics operation aiming to reduce travel distance resulting in faster delivery and lower costs.",
+      "url": "https://www.foxbusiness.com/markets/amazon-increase-delivery-speed-while-cutting-costs",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/01/0/0/Amazon.jpg?ve=1&tl=1",
+      "publishedAt": "2023-05-14T06:21:19Z",
+      "content": "Amazon.com has overhauled its logistics network in an attempt to reduce how far packages have to travel in an attempt to speed deliveries.\r\nIn the process, the company looks to improve profitability,… [+2159 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Mumbi Gitau, Dayanne Martins Sousa, Mai Ngoc Chau",
+      "title": "Bean Shortage Drives Up Cost of Even the Cheapest Cup of Coffee - Bloomberg",
+      "description": "The global cost-of-living crunch has pushed coffee drinkers to get their fix from cheaper brews. But a shortage of robusta beans is making it increasingly difficult to find a budget-friendly cup.",
+      "url": "https://www.bloomberg.com/news/articles/2023-05-14/coffee-shortage-drives-up-cost-of-even-the-cheapest-cup",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0AWFX_mcB_c/v0/1200x800.jpg",
+      "publishedAt": "2023-05-14T02:10:00Z",
+      "content": "The global cost-of-living crunch has pushed coffee drinkers to get their fix from cheaper brews. But a shortage of robusta beans is making it increasingly difficult to find a budget-friendly cup.\r\nWh… [+385 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Madeline Coggins",
+      "title": "Tech CEO explains what's causing mass layoffs - Fox Business",
+      "description": "Kaseya CEO Fred Voccola discusses issues facing the technology sector and shares how his Miami-based company is finding success on 'The Big Money Show.'",
+      "url": "https://www.foxbusiness.com/technology/tech-ceo-what-causing-mass-layoffs",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/12/0/0/Business-Layoffs.jpg?ve=1&tl=1",
+      "publishedAt": "2023-05-14T00:01:04Z",
+      "content": "Despite massive layoffs in the tech industry over the past year, one CEO is in hiring mode.  \r\nFred Voccola, the CEO of Miami-based software company Kaseya, discussed why the industry is struggling a… [+2784 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Adam Barnes",
+      "title": "Fed hikes and default fears: Here’s what could be next for the housing market - The Hill",
+      "description": "Homebuyers and renters alike could feel relief later this year as home prices stabilize, mortgage rates decline and rent price growth continues to slow. Economists expect the Federal Reserve to pause rate hikes for a time while it observes incoming economic d…",
+      "url": "https://thehill.com/business/4002265-fed-hikes-and-default-fears-heres-what-could-be-next-for-the-housing-market/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/05/homes_pa_042823ap_debt-home-buyers.jpg?w=1280",
+      "publishedAt": "2023-05-13T21:00:00Z",
+      "content": "Skip to content\r\nHomebuyers and renters alike could feel relief later this year as home prices stabilize, mortgage rates decline and rent price growth continues to slow. \r\nEconomists expect the Feder… [+8299 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheStreet"
+      },
+      "author": "Sarah Jean Callahan",
+      "title": "Kroger Vows Court Fight to Make Albertson's Merger Happen - TheStreet",
+      "description": "A merger of Kroger and Albertson's would create a company with 5,000 stores in 48 states.",
+      "url": "https://www.thestreet.com/retailers/kroger-grocery-store-retail-merger-albertsons-lawsuit-antitrust-fight",
+      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MTg5NTkzMTMwNTc4NzQ4NzMx/kroger.jpg",
+      "publishedAt": "2023-05-13T20:59:59Z",
+      "content": "The proposed merger between grocers Kroger  (KR) - Get Free Report and Albertson’s  (ACI) - Get Free Report is being challenged. After the merger was first revealed, it became clear that some people … [+4154 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Ramishah Maruf",
+      "title": "Ex-ByteDance employee claims company stole content from competitors in earlier days - CNN",
+      "description": "An ex-ByteDance employee claimed he was wrongfully terminated after raising concerns about what he believed were illegal practices by the company, such as allegedly stealing content from its competitors Snapchat and Instagram.",
+      "url": "https://www.cnn.com/2023/05/13/business/bytedance-employee-lawsuit/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230513124001-bytedance-headquarters-2022-file.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-05-13T20:20:00Z",
+      "content": "An ex-ByteDance employee claimed he was wrongfully terminated after raising concerns about what he believed were illegal practices by the company, such as allegedly stealing content from its competit… [+3482 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Bethany Biron",
+      "title": "USPS takes action to curb mail theft and robberies as incidents rise - Business Insider",
+      "description": "Efforts include installing high-security collection boxes, adding electronic locks, and preventing change-of-address fraud.",
+      "url": "https://www.businessinsider.com/usps-postal-workers-mail-package-theft-financial-fraud-2023-5",
+      "urlToImage": "https://i.insider.com/645fcb3011971c00188f3d7f?width=1200&format=jpeg",
+      "publishedAt": "2023-05-13T18:49:00Z",
+      "content": "Thieves stealing packages from stoops and doorways has for years been a growing problem as more and more Americans order their stuff online.\r\nBut less talked about is another issue: Thieves targeting… [+2564 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Decrypt"
+      },
+      "author": "Tim Hakki",
+      "title": "This Week in Coins: Bitcoin and Ethereum Lead Market Pullback as Dollar Rises - Decrypt",
+      "description": "Crypto enjoyed a short rally after the release of the CPI on Wednesday, but a strengthening dollar pulled prices back down.",
+      "url": "https://decrypt.co/140053/this-week-in-coins-bitcoin-and-ethereum-lead-market-pullback-as-dollar-rises",
+      "urlToImage": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/Bitcoin-v-Dollar-shutterstock_700612297.-16x9jpg-gID_7.jpg@png",
+      "publishedAt": "2023-05-13T18:47:31Z",
+      "content": "Illustration by Mitchell Preffer for Decrypt.\r\nDespite a small midweek growth spurt on news that the U.S. Department of Labors inflation readings were lower than expected, Bitcoin (BTC) and Ethereum … [+3230 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Reviewgeek.com"
+      },
+      "author": "Cory Gunther",
+      "title": "Peloton Recalls Bikes for Being a Pain in the Butt - Review Geek",
+      "description": "Sticking to a workout or exercise routine is already a pain in the rear for some, and if you have one of Peloton’s exercise bikes, you could actually experience a pain in the butt due to the seats breaking off.",
+      "url": "https://www.reviewgeek.com/153565/peloton-recalls-bikes-for-being-a-pain-in-the-butt/",
+      "urlToImage": "https://www.reviewgeek.com/p/uploads/2023/05/cde98038.jpg",
+      "publishedAt": "2023-05-13T18:00:08Z",
+      "content": "Peloton\r\nSticking to a workout or exercise routine is already a pain in the rear for some, and if you have one of Peloton’s exercise bikes, you could actually experience a pain in the butt due to the… [+1216 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "USA TODAY",
+      "title": "Menopause drug Veozah approved by FDA to treat hot flashes - USA TODAY",
+      "description": null,
+      "url": "https://www.usatoday.com/story/news/health/2023/05/13/menopause-drug-hot-flashes-fda/70215001007/",
+      "urlToImage": null,
+      "publishedAt": "2023-05-13T17:06:29Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Tom Krisher",
+      "title": "Tennessee company refuses US request to recall 67 million potentially dangerous air bag inflators - The Associated Press",
+      "description": "DETROIT (AP) — A Tennessee company could be heading for a legal battle with U.S. auto safety regulators after refusing a request that millions of potentially dangerous air bag inflators be recalled.",
+      "url": "https://apnews.com/article/air-bag-inflators-recall-tennessee-nhtsa-c10c943d69230763b68b6aa93e68eaf0",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/169e5f5abe304bb8b7d47c1b67afdfbd/3000.webp",
+      "publishedAt": "2023-05-13T16:58:49Z",
+      "content": "DETROIT (AP) A Tennessee company could be heading for a legal battle with U.S. auto safety regulators after refusing a request that millions of potentially dangerous air bag inflators be recalled.\r\nT… [+4723 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Eamon Javers, Dan Mangan",
+      "title": "Judge warns JPMorgan Chase of contempt finding for slow-walking evidence in Jeffrey Epstein case - CNBC",
+      "description": "JPMorgan is accused in lawsuits of enabling sex trafficking by Jeffrey Epstein, a former friend of Donald Trump and Bill Clinton who killed himself in 2019.",
+      "url": "https://www.cnbc.com/2023/05/13/judge-warns-jpmorgan-chase-in-jeffrey-epstein-evidence-issue.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106009827-1562695684709preview.jpg?v=1683996442&w=1920&h=1080",
+      "publishedAt": "2023-05-13T16:47:22Z",
+      "content": "A New York federal judge warned JPMorgan Chase that he might find the bank in contempt of court if it does not speed up in producing evidence related to late sexual offender and money manager Jeffrey… [+3895 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Marc Fisher",
+      "title": "End of a love affair: AM radio is being removed from many cars - The Washington Post",
+      "description": "After a century-long romance, the car and AM radio are breaking up, leaving conservative talk shows, programs aimed at immigrants and religious stations wondering how they'll connect with listeners.",
+      "url": "https://www.washingtonpost.com/nation/2023/05/13/am-radio-electric-cars/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DPFISMIRQSPSSFSXK6KI6NAGWM_size-normalized.JPG&w=1440",
+      "publishedAt": "2023-05-13T16:00:00Z",
+      "content": "Comment on this story\r\nComment\r\nAmericas love affair between the automobile and AM radio a century-long romance that provided the soundtrack for lovers lanes, kept the lonely company with ballgames a… [+16115 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Timothy Nerozzi",
+      "title": "Disney content purge amid Disney+, Hulu merger means some films, TV shows could soon be unavailable - Fox Business",
+      "description": "The Walt Disney company plans to consolidate its Disney+ and Hulu streaming services into a \"one app experience,\" which will necessitate slashes in content production.",
+      "url": "https://www.foxbusiness.com/media/disney-content-purge-amid-disney-hulu-merger-means-some-films-tv-shows-could-soon-be-unavailable",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/12/0/0/Disney-logo.jpg?ve=1&tl=1",
+      "publishedAt": "2023-05-13T14:52:57Z",
+      "content": "Disney+ and Hulu will soon be merging into a \"one app experience,\" according to the Walt Disney Company — and this will mean a more reserved approach to content curation.\r\nDisney CEO Bob Iger announc… [+2679 chars]"
+    }
+  ]
+}
