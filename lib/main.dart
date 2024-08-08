@@ -8,7 +8,19 @@ import 'package:flutter_project1/shared/network/local/shared_preferences.dart';
 import 'package:flutter_project1/shared/network/remote/dio_helper.dart';
 import 'package:flutter_project1/shared/styles/themes.dart';
 import 'layout/News_App/cubit/cubit.dart';
+import 'layout/Todo-App/todo_layout.dart';
+import 'modules/basics_app/login/LoginScreen.dart';
+import 'modules/basics_app/messages/Messages.dart';
+import 'modules/basics_app/messenger/mess_screen.dart';
+import 'modules/basics_app/registration/Registeration.dart';
+import 'modules/basics_app/users/Users_screen.dart';
+import 'modules/bmi_app/bmi/bmi_screen.dart';
+import 'modules/bmi_app/bmi_result/bmi_result.dart';
+import 'modules/counter_app/counter_screen.dart';
+import 'modules/news_app/business/business_screen.dart';
+import 'modules/news_app/science/science_screen.dart';
 import 'modules/shop_app/onboarging/onboarding_screen.dart';
+import 'modules/shop_app/register/register_screen.dart';
 
 
 void main() async
