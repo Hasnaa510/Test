@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class VMI extends StatefulWidget {
-  const VMI({Key? key}) : super(key: key);
+class BMI extends StatefulWidget {
+  const BMI({Key? key}) : super(key: key);
 
   @override
-  State<VMI> createState() => _VMIState();
+  State<BMI> createState() => _BMIState();
 }
 
-class _VMIState extends State<VMI> {
+class _BMIState extends State<BMI> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
