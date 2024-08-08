@@ -122,7 +122,7 @@ class _OnBoardingScreenState extends State<OnBoardingScreen> {
                     {
                       boardController.nextPage(
                           duration: const Duration(
-                            microseconds: 750,
+                            microseconds: 751,
                           ),
                           curve: Curves.fastLinearToSlowEaseIn);
                     }
